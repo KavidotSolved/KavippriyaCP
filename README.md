@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KavippriyaCP
+- 👋 Hi, I’m @Kavippriya C P
 - 🌱 I’m currently learning RPA
 - 📫 How to reach me My Email
 
